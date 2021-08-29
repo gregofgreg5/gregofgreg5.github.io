@@ -1,5 +1,3 @@
-# The Evolution of Breakfast
- 
 August 15, 2021, a lazy Sunday.
 
 I’ve never been a breakfast guy. That being said, I do have a number of favorite breakfasts. In fact, I really love some breakfast foods. I just don’t always like eating in the morning.  This is a story about one of those breakfasts and its remarkable evolution this week.
