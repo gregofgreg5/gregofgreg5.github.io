@@ -1,0 +1,1 @@
+For comic images
