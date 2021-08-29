@@ -26,6 +26,6 @@ Russell introduces a scientist antagonist to the story, Dr. Jones, who is the fo
 
 All that being said, if you’re looking for a fresh turn at the old yarn, this is it. If you can suspend your expectations and take this story at face value, it’s a good read.
 
-**Rating: B **
+**Rating: B**
 
 August 28, 2021
