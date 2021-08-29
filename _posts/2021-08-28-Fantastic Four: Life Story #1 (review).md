@@ -1,3 +1,5 @@
+August 28, 2021
+
 **Fantastic Four: Life Story #1 (2021)**
 
 Marvel Comics
@@ -28,4 +30,4 @@ All that being said, if you’re looking for a fresh turn at the old yarn, this 
 
 **Rating: B**
 
-August 28, 2021
+
