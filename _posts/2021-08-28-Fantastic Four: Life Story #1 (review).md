@@ -1,4 +1,3 @@
-# Fantastic Four: Life Story #1 (2021)
 Marvel Comics
 
 Writer: Mark Russell
