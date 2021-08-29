@@ -6,10 +6,8 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
+**Greg** [greg] IPA: grɛ́g
 
-A place to include any other types of information that you'd like to include about yourself.
+*noun*
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+1. Husband. Dad. Behavior Analyst. Fan of: comics, the Dodgers, movies, TV, D&D5e and Sci-Fi, Mystery & Fantasy genres.
