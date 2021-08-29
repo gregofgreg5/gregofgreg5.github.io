@@ -1,4 +1,4 @@
- # The Evolution of Breakfast
+# The Evolution of Breakfast
  
 August 15, 2021, a lazy Sunday.
 
