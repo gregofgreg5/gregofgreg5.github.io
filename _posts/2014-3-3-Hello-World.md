@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: I'm here. You're here, but this is really more about me.
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Welcome to On the brink of imagination and other ramblings by me, Greg.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+**Greg** [greg] IPA: grɛ́g
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+*noun*
+
+1. Husband. Dad. Behavior Analyst. Fan of: comics, the Dodgers, movies, TV, D&D5e and Sci-Fi, Mystery & Fantasy genres.
