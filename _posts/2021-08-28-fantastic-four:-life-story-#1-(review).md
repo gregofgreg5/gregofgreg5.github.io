@@ -10,6 +10,8 @@ Penciler: Sean Izaakse
 
 Cover artist: Daniel Acuña
 
+Marvel Unlimited
+
 <img src="https://github.com/gregofgreg5/gregofgreg5.github.io/blob/master/images/comic-pics/fantastic-four-lifestory-01.jpg?raw=true" height="400"/>
 
 I have a Marvel Universe Unlimited subscription and realized this afternoon that I hadn’t read any books this month. It’s been that kind of month. Instead of jumping into one of the series that I had on my library list, I thought I would try a handful of books on the “released this week”. Not exactly at random, since I was still going to pick, but also not necessarily something I would have chosen if I had no restrictions.
