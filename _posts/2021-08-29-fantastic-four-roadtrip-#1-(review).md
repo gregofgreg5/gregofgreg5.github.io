@@ -14,7 +14,7 @@ Marvel Unlimited
 
 <img src="https://user-images.githubusercontent.com/75657964/131280950-a42f7851-b37f-4881-b281-02dea09a009d.png" height="400"/>
 
-I have a newly created goal of reading at least three comics from each of my comic subscriptions per month. I, of course, came up with this goal on the last weekend of the month, so I had some catching up to do. I started the project with Mark Russell’s Fantastic Four: Life Story #1, which was good, but left me hungry for a legit Fantastic Four story. A good ol’ story about the First Family.
+I have a newly created goal of reading at least three comics from each of my comic subscriptions per month. I, of course, came up with this goal on the last weekend of the month, so I had some catching up to do. I started the project with Mark Russell’s Fantastic Four: Life Story #1 ([review](https://gregofgreg5.github.io/fantastic-four-life-story-1-review/)), which was good, but left me hungry for a legit Fantastic Four story. A good ol’ story about the First Family.
 
 <img src="https://github.com/gregofgreg5/gregofgreg5.github.io/blob/master/images/comic-pics/fantastic-four-roadtrip02.JPG?raw=true" height="400"/>
 
